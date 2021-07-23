@@ -1,4 +1,4 @@
-# simpleblog
+# Simple Blog
 This is a Simple Blog Web Application
 Tech Stack:
 Node.js
